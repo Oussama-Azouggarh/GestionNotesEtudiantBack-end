@@ -55,4 +55,4 @@ The project is divided into two main parts:
    - Open your browser and go to http://localhost:4200 to use the application.
 
 ## Contributors
-   @ayoubhamdoune
+[Ayoub Hamdoune](https://github.com/ayoubhamdoune)
